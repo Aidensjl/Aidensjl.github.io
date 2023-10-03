@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://aidensjl.github.io/posts/4d5d007a.html</loc>
-    
-    <lastmod>2023-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://aidensjl.github.io/manifest.json</loc>
     
     <lastmod>2023-10-03</lastmod>
@@ -22,7 +13,16 @@
   <url>
     <loc>https://aidensjl.github.io/posts/4a17b156.html</loc>
     
-    <lastmod>2023-10-02</lastmod>
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aidensjl.github.io/posts/4d5d007a.html</loc>
+    
+    <lastmod>2023-10-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
